@@ -1,6 +1,8 @@
 # ai-evidence-binder
 
-> Bind AI use cases to value, risk, data, owner, human oversight, and evidence — EU AI Act aligned.
+> Governance binder for AI use cases — risk, owners, oversight, and compliance evidence gaps.
+
+**Topics:** `ai-governance` · `eu-ai-act` · `compliance` · `risk-management` · `ai-security` · `enterprise`
 
 ![Screenshot](docs/screenshot.png)
 
@@ -21,4 +23,8 @@ npm test
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
+
+## Author
+
+**Mehmet Turac** — [github.com/mturac](https://github.com/mturac)
